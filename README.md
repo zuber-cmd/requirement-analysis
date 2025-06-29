@@ -104,4 +104,4 @@ A Use Case Diagram is a visual representation of the interactions between users 
 
 The diagram below shows a simple use case model for a booking management system:
 
-![Booking System Use Case Diagram](./alx-booking-uc.png)
+(./alx-booking-uc.png)
